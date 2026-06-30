@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Dhruvesh Mishra  
+# 👋 Hey there, I'm Dhruvesh Mishra   
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;DSA+Learner;Open+Source+Enthusiast;Debugging+is+my+superpower" />
 
