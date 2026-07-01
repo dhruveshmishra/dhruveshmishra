@@ -62,11 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhruveshmishra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://streak-stats.demolab.com?user=dhruveshmishra&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruveshmishra&theme=tokyonight&hide_border=true&layout=compact)
-
 
 ---
 
